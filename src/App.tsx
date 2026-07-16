@@ -387,7 +387,7 @@ export default function App() {
               </a>
 
               <a 
-                href="www.linkedin.com/in/syed-furqan-naqvi"
+                href="https://www.linkedin.com/in/syed-furqan-naqvi"
                 target="_blank"
                 rel="noreferrer"
                 className="p-3 bg-white/5 hover:bg-accent-mustard/10 border border-white/10 hover:border-accent-mustard/40 text-gray-300 hover:text-accent-mustard rounded-lg transition-all duration-300 flex items-center gap-2 text-xs font-mono"
