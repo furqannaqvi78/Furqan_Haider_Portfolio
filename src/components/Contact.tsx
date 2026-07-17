@@ -153,7 +153,7 @@ export default function Contact() {
               </span>
               
               <a
-                href="https://wa.me/+923063138596" // Simulated standard Pakistan WhatsApp connect
+                href="https://wa.me/+447311133431" // Simulated standard Pakistan WhatsApp connect
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex w-full items-center justify-center gap-3 px-6 py-4 bg-[#25D366] text-black font-display font-bold text-sm tracking-wide uppercase rounded shadow-lg shadow-[#25D366]/10 transform transition-transform duration-300 hover:scale-[1.03]"
