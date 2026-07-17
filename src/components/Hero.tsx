@@ -104,7 +104,7 @@ export default function Hero() {
               className="px-6 py-3.5 text-accent-mustard hover:text-white font-mono text-xs tracking-wider uppercase transition-all duration-300 gap-2 flex items-center"
             >
               <FileText className="w-4 h-4" />
-              <span>Simulated CV</span>
+              <span>CAREER PROFILE</span>
             </a>
           </div>
         </motion.div>
