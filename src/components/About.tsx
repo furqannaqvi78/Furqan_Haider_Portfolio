@@ -60,7 +60,7 @@ export default function About() {
                 "
               </div>
               <p className="font-display italic text-lg md:text-xl text-white relative z-10 leading-relaxed">
-                “I help businesses build scalable digital systems through modern web apps, Flutter applications, AI automation, and smart e-commerce strategies.”
+                “I help businesses build scalable digital systems through modern web apps, Flutter applications, AI automation, smart e-commerce strategies, and immersive 3D Visualization & WebAR experiences.”
               </p>
               <div className="mt-3 font-mono text-xs text-accent-mustard uppercase tracking-widest relative z-10">
                 — SYED FURQAN NAQVI, MISSION DIRECTION

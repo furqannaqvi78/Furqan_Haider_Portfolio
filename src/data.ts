@@ -40,15 +40,15 @@ export const SERVICES: Service[] = [
     ]
   },
   {
-    id: 'ui-ux',
-    title: 'UI/UX & Animations',
+   id: 'ui-ux',
+    title: '3D Visualization & WebAR',
     icon: 'Sparkles',
-    shortDescription: 'Premium user-centric designs focused on smooth interactions and visual hierarchy.',
+    shortDescription: 'We transform physical products into photorealistic 3D assets and deploy WebAR frameworks, enabling customers to instantly visualize products in their physical environment via a simple QR scan.',
     bulletPoints: [
-      'High-fidelity prototyping, micro-interactions, and visual guidelines',
-      'Complex animations utilizing Framer Motion and modern spring physics',
-      'Layout structuring that improves engagement and conversion rates',
-      'Thorough usability testing with responsive system layout variations'
+      'Hyper-realistic, photorealistic 3D product modeling and optimized material texturing',
+      'Interactive "Place in Your Space" WebAR integration with absolute scale accuracy',
+      'Seamless QR-code based instant AR triggers that operate without external applications',
+      'Optimized performance assets (.GLB/.USDZ) for zero lag and rapid mobile load times'
     ]
   },
   {
