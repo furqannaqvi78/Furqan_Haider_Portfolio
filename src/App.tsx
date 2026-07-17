@@ -312,7 +312,7 @@ export default function App() {
               </div>
               
               <p className="text-gray-400 font-sans text-sm md:text-base leading-relaxed max-w-md">
-                Guiding scalable technological transitions since 2023. Specializing in high-performance web deployment servers, responsive client-facing Flutter apps, and AI automated workflow networks.
+                Engineering scalable digital transformations since 2021. Specializing in enterprise-grade web systems, high-performance Flutter apps, autonomous AI workflows, and photorealistic 3D WebAR environments.
               </p>
             </div>
 
