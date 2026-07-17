@@ -1,7 +1,7 @@
 import { Experience, Project, Certificate, Service, BlogPost, QuickStat } from './types';
 
 export const QUICK_STATS: QuickStat[] = [
-  { label: 'Years of Experience', value: '4', suffix: '+', iconName: 'Briefcase' },
+  { label: 'Years of Experience', value: '5', suffix: '+', iconName: 'Briefcase' },
   { label: 'Projects Completed', value: '50', suffix: '+', iconName: 'CheckCircle' },
   { label: 'Technologies Mastered', value: '15', suffix: '+', iconName: 'Cpu' },
   { label: 'Client Satisfaction', value: '100', suffix: '%', iconName: 'Users' }
