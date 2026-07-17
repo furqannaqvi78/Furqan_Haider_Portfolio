@@ -111,7 +111,7 @@ export default function App() {
                 SYED MUHAMMED FURQAN HAIDER NAQVI
               </span>
               <span className="text-[9px] font-mono text-white/55 tracking-widest font-bold">
-                FURQANBIZ • PORTFOLIO
+                FURQANBIZ • PROFESSIONAL PROFILE
               </span>
             </div>
           </button>

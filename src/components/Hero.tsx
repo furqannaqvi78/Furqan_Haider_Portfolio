@@ -55,7 +55,7 @@ export default function Hero() {
           {/* Subtle Tagline Accent */}
           <div className="inline-flex items-center gap-2 bg-accent-mustard/10 border border-accent-mustard/20 px-3 py-1.5 rounded-full text-accent-mustard text-xs font-mono w-max">
             {/* <Sparkles className="w-3.5 h-3.5" /> */}
-            <span>PORTFOLIO</span>
+            <span>FOUNDER OF FURQANBIZ</span>
           </div>
 
           {/* Scaled Split Headings */}
